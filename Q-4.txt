@@ -1,0 +1,17 @@
+The expression a^3 + b^3 + c^3 - 3abc is known as the factorization form of (a + b + c)^3, where a, b, and c are the variables.
+
+We can write it as:
+
+a^3 + b^3 + c^3 - 3abc = (a + b + c)^3 - 3abc - 3(a + b + c)(a^2 + b^2 + c^2 - ab - bc - ac)
+
+Given in the problem, a + b + c = 5 and a^2 + b^2 + c^2 = 10.
+
+The sum of all products two at a time is calculated as:
+
+ab + bc + ac = [(a + b + c)^2 - a^2 - b^2 - c^2] / 2 = [(5)^2 - 10] / 2 = 2.5
+
+Substitute the given values into the equation:
+
+a^3 + b^3 + c^3 - 3abc = (5)^3 - 3 * 5 * 2.5 = 125 - 37.5 = 87.5
+
+So, a^3 + b^3 + c^3 - 3abc = 87.5

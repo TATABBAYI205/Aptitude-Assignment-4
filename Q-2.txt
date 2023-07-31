@@ -1,0 +1,7 @@
+The points at which a line meets the x and y axes are known as the x-intercept and y-intercept respectively.
+
+The x-intercept is the point where the line crosses the x-axis. At this point, y = 0. Substituting y = 0 into the equation 2x + 3y = 0, we get 2x = 0, so x = 0. So the x-intercept is at the point (0, 0).
+
+The y-intercept is the point where the line crosses the y-axis. At this point, x = 0. Substituting x = 0 into the equation 2x + 3y = 0, we get 3y = 0, so y = 0. So the y-intercept is also at the point (0, 0).
+
+Therefore, the line 2x + 3y = 0 meets the x and y axes at the origin, (0, 0).

@@ -1,0 +1,5 @@
+In the given milk-water mixture, the ratio of milk to water is 2:3. This implies that if the quantity of milk in the mixture is 40 litres (which corresponds to the '2' in the ratio), then the quantity of water (corresponding to '3' in the ratio) is (3/2)*40 litres = 60 litres.
+
+Now, the question is how much water we need to add to change this milk-water ratio to 4:11. In the new ratio, '4' corresponds to the quantity of milk, which remains constant at 40 litres. This means that in the new ratio, the amount of water corresponding to '11' should be (11/4)*40 litres = 110 litres.
+
+Therefore, to get to this new ratio, you would need to add 110 litres - 60 litres = 50 litres of water to the mixture.

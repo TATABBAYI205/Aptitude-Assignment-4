@@ -1,0 +1,5 @@
+The equation you provided is a^2 - b^2 = 19. This can be factored into (a - b)(a + b) = 19. Given that 19 is a prime number, the only pairs of integers (m, n) that satisfy mn = 19 are (1, 19) and (-1, -19). Since we know a and b are positive integers, we will only consider (1, 19).
+
+So we have two equations now, a - b = 1 and a + b = 19. By adding these equations, we get 2a = 20, or a = 10. Substituting a = 10 into a + b = 19, we get 10 + b = 19, so b = 9.
+
+Therefore, the pair of positive integers (a, b) that satisfy the equation a^2 - b^2 = 19 are (10, 9).

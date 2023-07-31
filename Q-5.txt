@@ -1,0 +1,20 @@
+The second number, when the digits are reversed, becomes "yx".
+
+Let's find these numbers now:
+
+Since each digit can be a value from 0 to 9 and we know that "x" and "y" are consecutive, the possible pairs (considering "xy" as a two-digit number) can be: 12, 23, 34, 45, 56, 67, 78, 89.
+
+Now, we know that the sum of these two numbers is a perfect square. Let's add each pair with its reverse and check which one gives a perfect square:
+
+12 + 21 = 33
+23 + 32 = 55
+34 + 43 = 77
+45 + 54 = 99
+56 + 65 = 121
+67 + 76 = 143
+78 + 87 = 165
+89 + 98 = 187
+
+From these calculations, only the pair 56 and 65 sum to a perfect square, 121, which is 11^2.
+
+So, the two numbers are 56 and 65, and the square root of their sum is 11.
